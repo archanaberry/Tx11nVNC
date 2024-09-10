@@ -37,3 +37,10 @@ sh termux_x11.sh & sh vnc.sh
 
 ## This my tablet landscape mode (2000x1200)
 ![My screenshot](archanaberry/screenshot3.png)
+
+# What the other display is cannot detected and does not appear on each devices?
+* Termux X11 "Layar Built-In" (My Tablet 2000x1200)
+![Termux x11](archanaberry/screenshot5.png)
+
+* VNC "screen" (My laptop legacy 1366x768)
+![VNC](archanaberry/screenshot4.png)
