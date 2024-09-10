@@ -24,6 +24,11 @@ sudo pacman -S dbus
 sudo apt install dbus
 ```
 
+## If you want to run it, you need to write command this!
+```
+sh termux_x11.sh & sh vnc.sh
+```
+
 ## These are ideal for remote access via SSH, and i use PuTTY.
 ![My screenshot](archanaberry/screenshot0.png)
 
