@@ -14,12 +14,12 @@ pkg install xorg-x11-server-Xvfb x11vnc
 ```
 
 ## Don't forget to install dbus
-* For Arch Linux
+* For Arch Linux distro's such as Manjaro, Endeavour, or etc...
 ```
 sudo pacman -S dbus
 ``` 
 
-* For Debian distro such as Ubuntu, Linux Mint, or etc...
+* For Debian distro's such as Ubuntu, Linux Mint, or etc...
 ```
 sudo apt install dbus
 ```
