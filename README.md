@@ -25,6 +25,7 @@ sudo apt install dbus
 ```
 
 ## If you want to run it, you need to write command this!
+* This script for XFCE4
 ```
 sh termux_x11.sh & sh vnc.sh
 ```
