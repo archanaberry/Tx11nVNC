@@ -40,7 +40,7 @@ sh termux_x11.sh & sh vnc.sh
 
 # What the other display is cannot detected and does not appear on each devices?
 * Termux X11 "Layar Built-In" (My Tablet 2000x1200)
-![Termux x11](archanaberry/screenshot5.png)
+![Termux x11](archanaberry/screenshot4.png)
 
 * VNC "screen" (My laptop legacy 1366x768)
-![VNC](archanaberry/screenshot4.png)
+![VNC](archanaberry/screenshot5.png)
