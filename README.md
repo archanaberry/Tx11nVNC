@@ -2,6 +2,15 @@
 Dual connection screen to display via Termux x11 on VNC ✧⁠◝⁠(⁠⁰⁠▿⁠⁰⁠)⁠◜⁠✧
 ![Archana Berry](archanaberry/banner.png)
 
+# Setup
+
+## Install package for termux x11 and vnc service's
+```
+pkg update && pkg upgrade
+pkg install proot pulseaudio termux-x11 x11-repo
+pkg install xorg-xrandr xfce4
+```
+
 ## These are ideal for remote access via SSH, and i use PuTTY.
 ![My screenshot](archanaberry/screenshot0.png)
 
