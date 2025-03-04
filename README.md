@@ -1,4 +1,4 @@
-# Tx11nVNC
+# Tx11nVNC (Only connect create new session screen)
 Dual connection screen to display via Termux x11 on VNC ✧⁠◝⁠(⁠⁰⁠▿⁠⁰⁠)⁠◜⁠✧
 ![Archana Berry](archanaberry/banner.png)
 
